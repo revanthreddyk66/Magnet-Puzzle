@@ -252,5 +252,4 @@ vector<vector<char>> rules = {
 solveMagnets(rules,0,0);
 
 }
-
-// The code is contributed by Gautam goel. 
+ 
